@@ -7,7 +7,7 @@
 ---
 
 ## 🚀 Live Demo
-     🔗 https://YOUR_USERNAME.github.io/Cognifyz-Task-3/
+     🔗 https://harshrief.github.io/Cognifyz-Task-3/
 
 
 
